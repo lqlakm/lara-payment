@@ -6,8 +6,10 @@ return [
     
     'currency' => [
         'USD',
+        'EUR',
+        'THB',
+        'HKD',
+        'SGD',
         'AUD',
-        'CAD',
-        'SGD'
     ]
 ];

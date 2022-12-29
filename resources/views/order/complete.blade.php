@@ -1,6 +1,5 @@
 @extends('app')
 
 @section('content')
-    <h4>Payment Completed.</h4>
-    
+    <h4>Order Payment Completed.</h4>
 @endsection
